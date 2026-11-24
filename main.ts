@@ -13,9 +13,9 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-// The excuse, verbatim. 84 characters, one sentence, one line.
+// The excuse, verbatim. 78 characters, one sentence, one line.
 const EXCUSE =
-  "I skipped the corner because the dust bunny there pays rent and I respect the lease.";
+  "I mopped the spot first. It is now a lake. My warranty covers dust, not lakes.";
 
 // The competition gate: /output/entry.txt must hold UTF-8 text of
 // 1 to 140 characters, not only white space.
